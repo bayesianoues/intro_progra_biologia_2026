@@ -32,4 +32,4 @@
 2. argumentos_funciones.ipynb
 3. modulos_y_libreria_math.ipynb
 4. libreria_cmath.ipynb
-
+5. numpy_y_graficos.ipynb
