@@ -33,3 +33,7 @@
 3. modulos_y_libreria_math.ipynb
 4. libreria_cmath.ipynb
 5. numpy_y_graficos.ipynb
+
+### Unidad VI 
+
+1. listas_y_listas_comprensibles.ipynb
