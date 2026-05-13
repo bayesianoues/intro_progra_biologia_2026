@@ -37,3 +37,5 @@
 ### Unidad VI 
 
 1. listas_y_listas_comprensibles.ipynb
+2. tuplas_matrices.ipynb
+
