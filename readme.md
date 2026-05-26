@@ -39,3 +39,9 @@
 1. listas_y_listas_comprensibles.ipynb
 2. tuplas_matrices.ipynb
 3. algoritmos_ordenamiento.ipynb
+
+
+### Unidad VII 
+
+1. creacion_manipulacion_dataframes.ipynb
+2. seleccion_filtrado.ipynb
