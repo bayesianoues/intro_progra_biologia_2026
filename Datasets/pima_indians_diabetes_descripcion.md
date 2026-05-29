@@ -50,9 +50,10 @@ Se impusieron varias restricciones en la selección de estas instancias a partir
 
 9. Distribución de la clase: (el valor de clase 1 se interpreta como "resultado positivo para diabetes")
 
-Valor de clase Número de instancias
-0 500
-1 268
+| Valor de clase | Número de instancias |
+|----------------|----------------------|
+| 0              | 500                  |
+| 1              | 268                  |
 
 
 
