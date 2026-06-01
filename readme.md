@@ -47,3 +47,4 @@
 2. seleccion_filtrado.ipynb
 3. operaciones_datos_y_manejo_nulos.ipynb
 4. visualizacion_de_datos.ipynb
+5. practica_unidadvii.ipynb 
